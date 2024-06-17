@@ -1,0 +1,2 @@
+// inster document into a collaction
+db.school.insert({ name: "Holberton school" })
